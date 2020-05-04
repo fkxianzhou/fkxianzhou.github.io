@@ -19,11 +19,11 @@ sidebar-avatar: /img/Oreki Houtarou.jpg      # use absolute URL, seeing it's use
 # SNS settings
 RSS: false
 # weibo_username:     FK线轴
-zhihu_username:     FK线轴
-github_username:    fkxianzhou
+zhihu_username: fkxian-zhou
+github_username: fkxianzhou
 facebook_username:  
 jianshu_username:   
-#twitter_username:   FK线轴
+twitter_username: FKxianzhou
 
 
 
